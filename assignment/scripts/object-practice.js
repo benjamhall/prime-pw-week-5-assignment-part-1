@@ -55,4 +55,4 @@ console.log('updated shoe count', me.shoeCount);
   - Console.log your object
 */
 me.favoriteColor++;
-console.log('added favorite Color', me);
+console.log('updated', me);
